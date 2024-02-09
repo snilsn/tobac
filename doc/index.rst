@@ -56,7 +56,8 @@ The project is currently being extended by several contributors to include addit
    :caption: Tracking
    :maxdepth: 2
 
-   linking  
+   linking
+   linking_strategies  
    tracking_output
    
 .. toctree::
